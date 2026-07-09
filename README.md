@@ -109,5 +109,5 @@ efficiency is weak: need to optimize targeting/landing pages.
 → Insight: Focus budget more on Video & Story ads for better ROI.
 
 ## 5.	Screenshots
-![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+![Dashboard Preview](https://github.com/abhisheklate20-ops/Meta_ad_Performance_Analysis/blob/main/Dashboard.png)
 
