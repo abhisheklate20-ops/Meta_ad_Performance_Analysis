@@ -103,16 +103,11 @@ efficiency is weak: need to optimize targeting/landing pages.
 → Insight: Schedule ad delivery during afternoons & evenings for maximum impact.
 
 ### Analysis by Ad Type (Bottom-Right Table)
-Ad Type Impressions Clicks CTR Purchase Rate Conversion Rate Engagement Rate
-Carousel 48K 6K 11.7% 0.59% 5.1% 13.4%
-Image 51K 6K 11.7% 0.57% 4.9% 13.5%
-Stories 72K 8K 11.8% 0.65% 5.2% 13.6%
-Video 46K 5K 11.9% 0.62% 5.2% 13.7%
-    Video ads have the highest CTR, CR, ER (best-performing).
-    Stories ads also perform strongly with higher impressions.
-    Images/Carousels have decent performance but slightly lower conversions.
+  • Video ads have the highest CTR, CR, ER (best-performing).
+  • Stories ads also perform strongly with higher impressions.
+  • Images/Carousels have decent performance but slightly lower conversions.
 → Insight: Focus budget more on Video & Story ads for better ROI.
 
-## 5.	Screenshots / Demos
-Show what the dashboard looks like.
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)# Meta_ad_Performance_Analysis
+## 5.	Screenshots
+![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+
